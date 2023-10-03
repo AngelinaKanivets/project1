@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    background-color: blue;
+    font-size: 28px;
+    padding: 20px;
+    letter-spacing: 2px;
+}
+
+img{
+    width: 600px;
+    margin: 40px;
+    /* margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px; */
+    border: 5px solid pink;
+    max-width: 100%;
+}
+
+.cat {
+    border: 5px solid blue;
+    border-radius: 40px;
+}
+.dog {
+    border: 5px solid black;
+
+}
+h2 {
+    color: darkmagenta;
+    font-size: 26px;
+}
+hr {
+   border: 2px solid red;
+}
+a{
+    color: blue;
+    font-style: italic;
+    text-decoration: none;
+}
+ul{
+    color: blueviolet;
+}
+.lemon {
+    text-decoration: underline;
+}
+ol{
+    color: chartreuse;
+}
+.fanta{
+    text-decoration: underline;
+}
+.sprite{
+    font-size: 18px;
+}
+.text {
+    color: chocolate;
+    border: 4px solid green;
+}
+span{
+    color: cyan;
+}
+img{
+    vertical-align: middle;
+}
+.small{
+    width: 300px;
+}
